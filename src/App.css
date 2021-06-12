@@ -12,9 +12,6 @@ rosa: #ffc2b4
 verde: #9dbeb9
 */
 
-*{
-  background-color:#CFE9EE ;
-}
 
 .App {
   text-align: center;
@@ -40,6 +37,7 @@ verde: #9dbeb9
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  text-shadow: -2px -2px 5px #405687;
 }
 
 .App-link {
