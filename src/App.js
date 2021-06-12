@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={wave} className="App-logo" alt="logo" />
         <p>
-          Estamos construyendo nuestro sitio, mientras tanto podés enterarte de las novedades en las redes.
+          Nuestro sitio está en construcción, mientras tanto podés enterarte de las novedades en nuestras redes.
         </p>
         <a
           className="App-link"
@@ -16,7 +16,6 @@ function App() {
           rel="noopener noreferrer"
         >
           entremareas.surf
-          <ig/>
         </a>
       </header>
     </div>
