@@ -1,3 +1,21 @@
+/*Paleta de colores
+Verde agua : #CFE9EE;
+Gris : #8F9CBA;
+Azul marino : #405687;
+naranja : #EFB194;
+marron : #BA978F;
+
+Paleta alternativa
+Azul petroleo: #194350
+salmon: #ff8882
+rosa: #ffc2b4
+verde: #9dbeb9
+*/
+
+*{
+  background-color:#CFE9EE ;
+}
+
 .App {
   text-align: center;
 }

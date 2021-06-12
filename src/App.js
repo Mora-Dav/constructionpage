@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={wave} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Estamos construyendo nuestro sitio, mientras tanto podés enterarte de las novedades en las redes.
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.instagram.com/entremareas.surf/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          entremareas.surf
         </a>
       </header>
     </div>
