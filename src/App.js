@@ -1,5 +1,6 @@
 import wave from './waveGeneration1.svg';
 import './App.css';
+import Icono from './Icono.js';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
           rel="noopener noreferrer"
         >
           entremareas.surf
+          <Icono/>
         </a>
       </header>
     </div>
