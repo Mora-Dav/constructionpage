@@ -17,7 +17,7 @@ function App() {
           rel="noopener noreferrer"
         >
           entremareas.surf
-          <Icono/>
+          {/*<Icono/>*/}
         </a>
       </header>
     </div>
