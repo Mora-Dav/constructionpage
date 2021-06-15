@@ -6,6 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+      <h1>ENTRE MAREAS</h1>
         <img src={wave} className="App-logo" alt="logo" />
         <p>
           Nuestro sitio está en construcción, mientras tanto podés enterarte de las novedades en nuestras redes.
@@ -16,8 +17,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
+          <Icono/>
           entremareas.surf
-          {/*<Icono/>*/}
         </a>
       </header>
     </div>

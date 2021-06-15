@@ -1,25 +1,15 @@
-
 div.ig {
-    height: 20rem;
-    width: 20rem;
-    background: radial-gradient(
-        circle at 33% 100%,
-        #fed373 4%,
-        #f15245 30%,
-        #d92e7f 62%,
-        #9b36b7 85%,
-        #515ecf
-    );
-    border-radius: 30%;
+    height: 40px;
+    width: 40px;
     position: relative;
 }
 
 div.ig:before {
     content: '';
-    border: 1rem solid #fff;
+    border: 2px solid #fff;
     border-radius: 30%;
-    width: 12.5rem;
-    height: 12.5rem;
+    width: 25px;
+    height: 25px;
     left: 0;
     right: 0;
     position: absolute;
@@ -31,10 +21,10 @@ div.ig:before {
 
 div.ig:after {
     content: '';
-    border: 1rem solid #fff;
+    border: 2px solid #fff;
     border-radius: 100%;
-    width: 5rem;
-    height: 5rem;
+    width: 10px;
+    height: 10px;
     left: 0;
     right: 0;
     position: absolute;
@@ -45,12 +35,12 @@ div.ig:after {
 
 span.ig1 {
     content: '';
-    border: 1rem solid #fff;
+    border: 2px solid #fff;
     border-radius: 100%;
     width: 0;
     height: 0;
-    right: 5rem;
+    right: 10px;
     position: absolute;
     margin: auto;
-    top: 5rem;
+    top: 10px;
 }   
