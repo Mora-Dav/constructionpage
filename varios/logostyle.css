@@ -1,0 +1,14 @@
+* {
+    display: flexbox;
+    font-family: 'Oxygen', sans-serif;
+    font-size: 75px;
+    align-items: center;
+}
+
+div {
+    margin:250px 250px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+
+
+}
