@@ -1,6 +1,7 @@
 import wave from './waveGeneration1.svg';
 import './App.css';
 import Icono from './Icono.js';
+import Header from './components/header';
 
 function App() {
   return (
@@ -9,7 +10,7 @@ function App() {
       <h1>ENTRE MAREAS</h1>
         <img src={wave} className="App-logo" alt="logo" />
         <p>
-          Nuestro sitio está en construcción, mientras tanto podés enterarte de las novedades en nuestras redes.
+          <Header/>
         </p>
         <a
           className="App-link"
